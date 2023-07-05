@@ -1,12 +1,11 @@
 import PageNav from "../components/PageNav";
 
-function Product() {
+function Pricing() {
   return (
     <div>
-      <PageNav />
-      <h1>Product</h1>
+      <PageNav /> <h1>Pricing</h1>
     </div>
   );
 }
 
-export default Product;
+export default Pricing;
