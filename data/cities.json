@@ -35,6 +35,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Xativa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-07T18:36:56.245Z",
+      "notes": "asdsad",
+      "position": {
+        "lat": "39.01064750994083",
+        "lng": "-0.5053710937500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Gjilan",
+      "country": "Republic of Kosovo",
+      "emoji": "🇽🇰",
+      "date": "2023-07-07T18:41:23.296Z",
+      "notes": "GG",
+      "position": {
+        "lat": "42.4639928001706",
+        "lng": "21.472778320312504"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Murcia",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-07T18:44:05.981Z",
+      "notes": "asdasd",
+      "position": {
+        "lat": "37.89219554724437",
+        "lng": "-1.2744140625000002"
+      },
+      "id": 98443200
     }
   ]
 }
